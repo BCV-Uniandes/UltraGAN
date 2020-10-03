@@ -11,7 +11,7 @@ This repository provides a PyTorch implementation of UltraGAN, presented in the 
 <sup>2 </sup>Computer Vision Lab, ETHZ <br/>
 <br/>
 
-<p align="center"><img src="figures/overview.png" /></p>
+<p align="center"><img src="imgs/enhanced.png" /></p>
 
 
 
@@ -44,4 +44,4 @@ bash test_net.sh
 }
 ```
 ## Acknowledgments
-Our code borrows from [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). The CAMUS dataset used in training and evaluation of our method can be found [here](https://www.creatis.insa-lyon.fr/Challenge/camus/).
+Our code borrows heavily from [CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix), we thank the authors for their contributions to the community. The CAMUS dataset used in training and evaluation of our method can be found [here](https://www.creatis.insa-lyon.fr/Challenge/camus/).
