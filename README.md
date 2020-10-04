@@ -19,7 +19,6 @@ This repository provides a PyTorch implementation of UltraGAN, presented in the 
 ### Cloning the repository
 ```bash
 $ git clone https://github.com/BCV-Uniandes/UltraGAN.git
-$ cd ultragan
 ```
 ### Train setup:
 
